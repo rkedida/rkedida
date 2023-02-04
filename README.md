@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robél Kedida</h1>
 <h3 align="center">An computer science student at 42 Heilbronn with a passion for blockchain development and cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkedida&label=Profile%20views&color=0e75b6&style=flat" alt="rkedida" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkedida" alt="rkedida" /></a> </p>
-
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **C**
