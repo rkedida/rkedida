@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkedida&theme=dark" alt="rkedida" /></p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/K3D1D4.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1477475"></script>
